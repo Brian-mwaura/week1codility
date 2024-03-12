@@ -11,7 +11,7 @@ def solution(A, D):
         current_month = date.month
         
         if A[i] < 0:
-            balance += A[i]
+            balance += A[]
             fee += 1
         else:
             balance += A[i]
